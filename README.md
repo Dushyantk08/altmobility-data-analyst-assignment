@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/19b7037d-82d3-4425-b6dc-217f16102177)# altmobility-data-analyst-assignment
 Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Tableau dashboards, business insights, and recommendations based on EV customer and payment data.
 
 

@@ -1,4 +1,4 @@
-# altmobility-data-analyst-assignment
+![image](https://github.com/user-attachments/assets/19b7037d-82d3-4425-b6dc-217f16102177)# altmobility-data-analyst-assignment
 Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Tableau dashboards, business insights, and recommendations based on EV customer and payment data.
 
 
@@ -19,8 +19,6 @@ Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Ta
 
 ## 📈 Revenue Trend Over Time
 
-![Revenue Trend Chart]
-
 **Key Insights:**
 - Revenue increased steadily from April 2020 to June 2020.
 - Minor dip observed in May 2021, possibly seasonal or system-related.
@@ -30,8 +28,6 @@ Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Ta
 
 ## 👥 Top Customers by Revenue
 
-![Top Customers Chart]
-
 **Key Insights:**
 - Top 5 customers = ~13.8% of total revenue.
 - Highest paying customer: `customer_id = 7950`, ₹2060.8 total.
@@ -40,8 +36,6 @@ Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Ta
 ---
 
 ## ❌ Failed Payments Overview
-
-![Failed Payments Chart]
 
 **Key Insights:**
 - 59% of orders failed due to payment issues.
@@ -65,4 +59,4 @@ Assignment for AltMobility's Data Analyst Intern role. Includes SQL analysis, Ta
 - `customer_summary.csv`
 - `monthly_trends.csv`
 - `unpaid_orders.csv`
-- `AltMobility_Report.pdf` (optional)
+- `AltMobility_Report.ppt` 
